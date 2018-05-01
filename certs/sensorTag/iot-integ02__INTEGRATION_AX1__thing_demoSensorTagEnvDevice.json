@@ -1,0 +1,10 @@
+{
+  "caCert": "CARoot.pem",
+  "clientCert": "demoSensorTagEnvDevice.567ac0f-certificate.pem.crt",
+  "clientId": "iot-integ02__INTEGRATION_AX1__thing_demoSensorTagEnvDevice",
+  "endpoint": "a2ecptzdfux5lm.iot.us-east-1.amazonaws.com",
+  "port": "8883",
+  "privateKey": "demoSensorTagEnvDevice.567ac0f-private.pem.key",
+  "publicKey": "demoSensorTagEnvDevice.567ac0f-public.pem.key",
+  "topic": "$aws/things/iot-integ02__INTEGRATION_AX1__thing_demoSensorTagEnvDevice/shadow/update"
+}
